@@ -1,2 +1,3 @@
 # aayushjoshipura
-This repository contains all of the data science projects I've conducted myself or collaborated on with others. 
+This repository contains the data science projects I've conducted myself or collaborated on with others. I have also included the project reports for any attached projects in pdf format as a writing sample to better understand the project scope and conclusions.  
+
