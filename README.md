@@ -5,4 +5,6 @@ Completed Projects
 
 Food Access Project - Collaborative project to identify issues pertaining to difficulties in accessing healthy food sources
 
-Medicare Spending Project - Collaboration to analyze shifts in medicare spending across all U.S states in the 2010s
+Medicare Spending Project - Collaboration to analyze shifts in medicare spending across all U.S states in the 2010s.
+
+Boston Housing/Apartments Machine Learning - Using Random Forest machine learning algorithms, statistical analysis, and regression to predict housing and apartment prices across different Boston, MA zip codes. 
